@@ -22,7 +22,7 @@ This Power BI dashboard provides insights into student performance, payment meth
 
 Here are some screenshots of the dashboard:
 
-![Dashboard Overview]()  
+![Dashboard Overview](https://github.com/ShramanTuladhar/PowerBI_portfolio_projects/blob/main/Screenshot%202025-03-16%20115835.png)  
 *Overview of the student dashboard.*
 
 ![Grades Analysis](https://github.com/ShramanTuladhar/PowerBI_portfolio_projects/blob/main/Screenshot%202025-03-16%20115637.png)  
